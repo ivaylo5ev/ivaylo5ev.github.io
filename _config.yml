@@ -1,1 +1,15 @@
+title: ivaylo5ev.github.io
+url: "https://ivaylo5ev.github.io/"
+description: "Personal github page for Ivaylo Slavov, a software developer."
+repository: ivaylo5ev/ivaylo5ev.github.io
+
 theme: jekyll-theme-leap-day
+
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
