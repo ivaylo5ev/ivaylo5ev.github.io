@@ -13,3 +13,10 @@ kramdown:
 future: true
 jailed: false
 gfm_quirks: paragraph_end
+
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
